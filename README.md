@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Palakkal Kaliyath
 - 👀 I’m interested in Cloud Computing, Application Development, DevOps and AI/ML
-- 🌱 I’m currently learning Clean Code, Clean Architecture & usage of GenAI for Application Development
+- 🌱 I’m currently learning Clean Code, Clean Architecture & use of GenAI for Application Development
 - 💞️ I’m looking to collaborate on anything interesting in the World of Technology
 - 📫 How to reach me: abhipk1512@gmail.com
 
